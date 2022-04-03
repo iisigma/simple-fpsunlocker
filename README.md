@@ -1,2 +1,3 @@
-# simple-fpsunlocker
-ass code and non auto update now go fuck urself 
+# simple fpsunlocker
+
+messy code and this doesn't auto update 
